@@ -1,0 +1,140 @@
+object Form3: TForm3
+  Left = 0
+  Top = 0
+  Caption = 'Form3'
+  ClientHeight = 476
+  ClientWidth = 858
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  PixelsPerInch = 96
+  TextHeight = 13
+  object Label3: TLabel
+    Left = 69
+    Top = 201
+    Width = 47
+    Height = 15
+    Caption = #3619#3627#3633#3626#3626#3636#3609#3588#3657#3634
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = 15
+    Font.Name = 'Tahoma'
+    Font.Style = []
+    ParentFont = False
+  end
+  object Label7: TLabel
+    Left = 69
+    Top = 145
+    Width = 33
+    Height = 15
+    Caption = #3592#3635#3609#3623#3609
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = 15
+    Font.Name = 'Tahoma'
+    Font.Style = []
+    ParentFont = False
+  end
+  object Label8: TLabel
+    Left = 69
+    Top = 86
+    Width = 24
+    Height = 15
+    Caption = #3619#3634#3588#3634
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = 15
+    Font.Name = 'Tahoma'
+    Font.Style = []
+    ParentFont = False
+  end
+  object Label9: TLabel
+    Left = 69
+    Top = 29
+    Width = 15
+    Height = 15
+    Caption = #3594#3639#3656#3629
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = 15
+    Font.Name = 'Tahoma'
+    Font.Style = []
+    ParentFont = False
+  end
+  object DBGrid1: TDBGrid
+    Left = 275
+    Top = 40
+    Width = 519
+    Height = 217
+    DataSource = PFront.DataSource1
+    TabOrder = 0
+    TitleFont.Charset = DEFAULT_CHARSET
+    TitleFont.Color = clWindowText
+    TitleFont.Height = -11
+    TitleFont.Name = 'Tahoma'
+    TitleFont.Style = []
+  end
+  object Button3: TButton
+    Left = 45
+    Top = 265
+    Width = 71
+    Height = 32
+    Caption = #3618#3639#3609#3618#3657#3609
+    TabOrder = 1
+  end
+  object DBEdit3: TDBEdit
+    Left = 69
+    Top = 166
+    Width = 121
+    Height = 23
+    DataField = 'Product_quantity'
+    DataSource = PFront.DataSource1
+    TabOrder = 2
+  end
+  object DBEdit4: TDBEdit
+    Left = 69
+    Top = 222
+    Width = 121
+    Height = 23
+    DataField = 'Product_code'
+    DataSource = PFront.DataSource1
+    TabOrder = 3
+  end
+  object DBEdit2: TDBEdit
+    Left = 69
+    Top = 50
+    Width = 121
+    Height = 23
+    DataField = 'Product_name'
+    DataSource = PFront.DataSource1
+    TabOrder = 4
+  end
+  object DBEdit6: TDBEdit
+    Left = 69
+    Top = 107
+    Width = 121
+    Height = 23
+    DataField = 'Product_price'
+    DataSource = PFront.DataSource1
+    TabOrder = 5
+  end
+  object Button10: TButton
+    Left = 146
+    Top = 265
+    Width = 68
+    Height = 32
+    Caption = #3621#3610#3626#3636#3609#3588#3657#3634
+    TabOrder = 6
+  end
+  object DBNavigator1: TDBNavigator
+    Left = 370
+    Top = 281
+    Width = 280
+    Height = 25
+    TabOrder = 7
+  end
+end

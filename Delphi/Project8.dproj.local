@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/11/18 00:54:24.000.844,=C:\Users\notebook\Documents\Embarcadero\Studio\Projects\Unit10.pas</Transaction>
+    <Transaction>2021/11/18 00:54:34.000.842,=C:\Users\notebook\Desktop\kuay.pas</Transaction>
+    <Transaction>2021/11/18 00:56:24.000.108,=C:\Users\notebook\Desktop\Delphi อาจารย์มีน สุพจน์\week9\Ex_TCP_1\server.pas</Transaction>
+    <Transaction>2021/11/18 00:57:07.000.897,C:\Users\notebook\Desktop\kuay.pas=</Transaction>
+    <Transaction>2021/11/18 01:36:27.000.176,=C:\Users\notebook\Desktop\POS\Cash.pas</Transaction>
+    <Transaction>2021/11/18 01:38:36.000.930,C:\Users\notebook\Desktop\Delphi อาจารย์มีน สุพจน์\week9\Ex_TCP_1\server.pas=C:\Users\notebook\Desktop\POS\Postmarket.pas</Transaction>
+    <Transaction>2021/11/18 01:38:36.000.930,C:\Users\notebook\Desktop\Delphi อาจารย์มีน สุพจน์\week9\Ex_TCP_1\server.dfm=C:\Users\notebook\Desktop\POS\Postmarket.dfm</Transaction>
+    <Transaction>2021/11/18 01:38:54.000.035,C:\Users\notebook\Desktop\POS\Cash.dfm=C:\Users\notebook\Desktop\POS\ds.dfm</Transaction>
+    <Transaction>2021/11/18 01:38:54.000.035,C:\Users\notebook\Desktop\POS\Cash.pas=C:\Users\notebook\Desktop\POS\ds.pas</Transaction>
+    <Transaction>2021/11/18 01:38:55.000.870,C:\Users\notebook\Documents\Embarcadero\Studio\Projects\Project8.dproj=C:\Users\notebook\Desktop\POS\Project8.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
